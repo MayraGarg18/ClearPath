@@ -30,7 +30,7 @@ const VR = () => {
   const [audioFeedback, setAudioFeedback] = useState(null); // New state for audio feedback
 
 
-  const API_KEY = 'AIzaSyAFQOOj4wAE-sTdcL6Uba1PCiblgOgKJyU';
+  const API_KEY = 'PASTE-YOUR-KEY-HERE';
 
   const videoConstraints = {
     width: 1280,
